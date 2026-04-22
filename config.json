@@ -1,6 +1,5 @@
 {
     "targets": {
-        "TEMP" : "C:\\Windows\\Temp\\",
-        "Downloads": "C:\\Users\\tonib\\Downloads"
+        "TEMP" : "C:\\Windows\\Temp\\"
     }
 }
